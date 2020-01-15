@@ -1,0 +1,24 @@
+html,body {
+    margin: 0;
+    padding: 0
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 100px;
+}
+
+.result {
+    margin-top: 30px;
+}
+
+.cadre {
+    margin-top: 30px;
+    padding: 30px;
+    width: 300px;
+    border: solid #000 3px;
+}
